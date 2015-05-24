@@ -1,0 +1,6 @@
+start
+//dsc.taobaocdn.com/i5/360/880/36188760898/TB1eQgIGXXXXXbmXXXX8qtpFXXX.desc%7Cvar%5Edesc%3Bsign%5Ea539fbac380a3519559604c5c0d3eea6%3Blang%5Egbk%3Bt%5E1427933674"
+get images
+<Selector xpath='//img/@src' data=u'http://img04.taobaocdn.com/imgextra/i4/1'>
+<Selector xpath='//img/@src' data=u'http://img02.taobaocdn.com/imgextra/i2/1'>
+<Selector xpath='//img/@src' data=u'http://img01.taobaocdn.com/imgextra/i1/1'>
